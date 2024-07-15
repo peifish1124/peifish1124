@@ -15,26 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/peifish1124/peifish1124/master/profile-summary-card-output/slateorange/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/peifish1124/peifish1124/master/profile-summary-card-output/slateorange/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
